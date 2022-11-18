@@ -94,4 +94,5 @@ export const pagesRoutes = [
   ["v-58bb7b92","/zh/tag/%E9%BB%84/",{"t":"黄 标签","y":"p"},["/zh/tag/黄/","/zh/tag/%E9%BB%84/index.html"]],
   ["v-012340a5","/zh/tag/%E5%BC%AF%E6%9B%B2%E7%9A%84/",{"t":"弯曲的 标签","y":"p"},["/zh/tag/弯曲的/","/zh/tag/%E5%BC%AF%E6%9B%B2%E7%9A%84/index.html"]],
   ["v-78e0ca6a","/zh/tag/%E9%95%BF/",{"t":"长 标签","y":"p"},["/zh/tag/长/","/zh/tag/%E9%95%BF/index.html"]],
+  ["v-00122233","/zh/guide/nodejs.html",{"t":"","y":"a"},["/zh/guide/nodejs","/zh/guide/nodejs.md"]],
 ]
