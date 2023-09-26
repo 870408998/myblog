@@ -6,7 +6,7 @@
 <h2 id="markdown-config" tabindex="-1"><a class="header-anchor" href="#markdown-config" aria-hidden="true">#</a> Markdown Config</h2>
 <p>VuePress introduce configuration for each Markdown page using Frontmatter.</p>
 <div class="custom-container info">
-<p class="custom-container-title">Info</p>
+<p class="custom-container-title">相关信息</p>
 <p>Frontmatter is a important concept in VuePress. If you don’t know it, you need to read <a href="https://vuepress-theme-hope.github.io/v2/cookbook/vuepress/page.html#front-matter" target="_blank" rel="noopener noreferrer">Frontmatter Introduction<ExternalLinkIcon/></a>.</p>
 </div>
 <h2 id="markdown-extension" tabindex="-1"><a class="header-anchor" href="#markdown-extension" aria-hidden="true">#</a> Markdown Extension</h2>
@@ -215,7 +215,7 @@ A custom details container
 <li><a href="https://vuepress-theme-hope.github.io/v2/guide/markdown/demo.html" target="_blank" rel="noopener noreferrer">View Detail<ExternalLinkIcon/></a></li>
 </ul>
 <h4 id="stylize" tabindex="-1"><a class="header-anchor" href="#stylize" aria-hidden="true">#</a> Stylize</h4>
-<p>Donate Mr.Hope a cup of coffee. <Badge type="tip">Recommended</Badge></p>
+<p>Donate Ms.G a cup of coffee. <Badge type="tip">Recommended</Badge></p>
 <ul>
 <li><a href="https://vuepress-theme-hope.github.io/v2/guide/markdown/stylize.html" target="_blank" rel="noopener noreferrer">View Detail<ExternalLinkIcon/></a></li>
 </ul>

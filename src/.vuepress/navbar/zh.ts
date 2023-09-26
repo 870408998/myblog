@@ -1,8 +1,64 @@
 import { navbar } from "vuepress-theme-hope";
 
 export const zhNavbar = navbar([
-  "/zh/",
-  { text: "教程", icon: "guide", link: "/zh/demo/" },
+  {
+    text: "推荐",
+    icon: "icon-chrome",
+    prefix: "/zh/recommend/",
+    children: [
+      { text: "网站", icon: "edit", link: "sites" },
+      { text: "解决方案", icon: "edit", link: "good" },
+      { text: "chrome插件", icon: "edit", link: "chrome_plugins" },
+    ],
+  },
+  {
+    text: "WebGl",
+    icon: "guide",
+    prefix: "/zh/WebGl/",
+    children: [{ text: "ThreeJs", icon: "edit", link: "ThreeJs" }],
+  },
+  {
+    text: "教程",
+    icon: "guide",
+    prefix: "/zh/guide/",
+    children: [
+      {
+        text: "NodeJs",
+        icon: "edit",
+        prefix: "nodejs/",
+        children: [
+          {
+            text: "Koa 后台项目搭建",
+            icon: "edit",
+            link: "koa_nodejs",
+          },
+          {
+            text: "Express 后台 API 项目",
+            icon: "edit",
+            link: "express_nodejs",
+          },
+          { text: "自动部署与构建", icon: "edit", link: "jenkins" },
+          {
+            text: "前端项目搭建与规范",
+            icon: "edit",
+            link: "project_specification",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    text: "案例",
+    icon: "enum",
+    prefix: "/zh/enum/",
+    children: [
+      {
+        text: "CSS动画",
+        icon: "css",
+        link: "animation",
+      },
+    ],
+  },
   {
     text: "博文",
     icon: "edit",
@@ -43,10 +99,5 @@ export const zhNavbar = navbar([
       "tomato",
       "strawberry",
     ],
-  },
-  {
-    text: "V2 文档",
-    icon: "note",
-    link: "https://vuepress-theme-hope.github.io/v2/zh/",
   },
 ]);

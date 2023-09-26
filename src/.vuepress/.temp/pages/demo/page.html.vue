@@ -3,7 +3,7 @@
 <h2 id="page-information" tabindex="-1"><a class="header-anchor" href="#page-information" aria-hidden="true">#</a> Page Information</h2>
 <p>You can set page information in Markdown’s Frontmatter.</p>
 <ul>
-<li>The author is Ms.Hope.</li>
+<li>The author is Ms.G.</li>
 <li>The writing date is January 1, 2020</li>
 <li>Category is &quot;Guide&quot;</li>
 <li>Tags are &quot;Page Config&quot; and &quot;Guide&quot;</li>

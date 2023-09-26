@@ -1,48 +1,56 @@
 ---
-home: true
+
+home: false
 layout: Blog
-icon: home
-title: Blog Home
-heroImage: /logo.svg
-heroText: the name of your blog
-tagline: You can put your slogan here
-heroFullScreen: true
-projects:
-  - icon: project
-    name: project name
-    desc: project detailed description
-    link: https://your.project.link
 
-  - icon: link
-    name: link name
-    desc: link detailed description
-    link: https://link.address
+# projects:
 
-  - icon: book
-    name: book name
-    desc: Detailed description of the book
-    link: https://link.to.your.book
+# - icon: project
 
-  - icon: article
-    name: article name
-    desc: Detailed description of the article
-    link: https://link.to.your.article
+# name: project name
 
-  - icon: friend
-    name: friend name
-    desc: Detailed description of friend
-    link: https://link.to.your.friend
+# desc: project detailed description
 
-  - icon: /logo.svg
-    name: custom item
-    desc: Detailed description of this custom item
-    link: https://link.to.your.friend
+# link: https://your.project.link
 
-footer: customize your footer text
----
+# - icon: link
 
-This is a blog home page demo.
+# name: link name
 
-To use this layout, you should set both `layout: Blog` and `home: true` in the page front matter.
+# desc: link detailed description
 
-For related configuration docs, please see [blog homepage](https://vuepress-theme-hope.github.io/v2/guide/blog/home/).
+# link: https://link.address
+
+# - icon: book
+
+# name: book name
+
+# desc: Detailed description of the book
+
+# link: https://link.to.your.book
+
+# - icon: article
+
+# name: article name
+
+# desc: Detailed description of the article
+
+# link: https://link.to.your.article
+
+# - icon: friend
+
+# name: friend name
+
+# desc: Detailed description of friend
+
+# link: https://link.to.your.friend
+
+# - icon: /logo.svg
+
+# name: custom item
+
+# desc: Detailed description of this custom item
+
+# link: https://link.to.your.friend
+
+footer: "<a href='https://beian.miit.gov.cn/' target='_blank'>粤 ICP 备 2022123799 号-1</a>"

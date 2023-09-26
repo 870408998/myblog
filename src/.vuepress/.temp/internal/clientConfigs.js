@@ -1,15 +1,14 @@
-import clientConfig0 from '/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext/src/.vuepress/.temp/sass-palette/load-hope.js'
-import clientConfig1 from '/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext/src/.vuepress/.temp/components/config.js'
-import clientConfig2 from '/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext/node_modules/@vuepress/plugin-active-header-links/lib/client/config.js'
-import clientConfig3 from '/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext/node_modules/@vuepress/plugin-external-link-icon/lib/client/config.js'
-import clientConfig4 from '/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
-import clientConfig5 from '/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
-import clientConfig6 from '/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext/node_modules/vuepress-plugin-comment2/lib/client/config.js'
-import clientConfig7 from '/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext/node_modules/vuepress-plugin-copy-code2/lib/client/config.js'
-import clientConfig8 from '/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext/src/.vuepress/.temp/md-enhance/config.js'
-import clientConfig9 from '/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext/node_modules/vuepress-plugin-photo-swipe/lib/client/config.js'
-import clientConfig10 from '/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext/src/.vuepress/.temp/pwa2/config.js'
-import clientConfig11 from '/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext/src/.vuepress/.temp/theme-hope/config.js'
+import clientConfig0 from '/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext_副本/src/.vuepress/.temp/sass-palette/load-hope.js'
+import clientConfig1 from '/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext_副本/src/.vuepress/.temp/components/config.js'
+import clientConfig2 from '/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext_副本/node_modules/@vuepress/plugin-active-header-links/lib/client/config.js'
+import clientConfig3 from '/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext_副本/node_modules/@vuepress/plugin-external-link-icon/lib/client/config.js'
+import clientConfig4 from '/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext_副本/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
+import clientConfig5 from '/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext_副本/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
+import clientConfig6 from '/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext_副本/node_modules/vuepress-plugin-copy-code2/lib/client/config.js'
+import clientConfig7 from '/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext_副本/src/.vuepress/.temp/md-enhance/config.js'
+import clientConfig8 from '/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext_副本/node_modules/vuepress-plugin-photo-swipe/lib/client/config.js'
+import clientConfig9 from '/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext_副本/src/.vuepress/.temp/pwa2/config.js'
+import clientConfig10 from '/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext_副本/src/.vuepress/.temp/theme-hope/config.js'
 
 export const clientConfigs = [
   clientConfig0,
@@ -23,5 +22,4 @@ export const clientConfigs = [
   clientConfig8,
   clientConfig9,
   clientConfig10,
-  clientConfig11,
 ]

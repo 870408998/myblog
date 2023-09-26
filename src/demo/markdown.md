@@ -367,7 +367,7 @@ span {
 
 #### Stylize
 
-Donate Mr.Hope a cup of coffee. _Recommended_
+Donate Ms.G a cup of coffee. _Recommended_
 
 - [View Detail](https://vuepress-theme-hope.github.io/v2/guide/markdown/stylize.html)
 

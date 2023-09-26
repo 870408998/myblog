@@ -1,10 +1,10 @@
 import { defineClientConfig } from "@vuepress/client";
 import { h } from "vue";
 
-import { useStyleTag } from "/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext/node_modules/vuepress-plugin-components/lib/client/vueuse.js";
-import Badge from "/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
-import FontIcon from "/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
-import BackToTop from "/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext/node_modules/vuepress-plugin-components/lib/client/components/BackToTop.js";
+import { useStyleTag } from "/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext_副本/node_modules/vuepress-plugin-components/lib/client/vueuse.js";
+import Badge from "/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext_副本/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
+import FontIcon from "/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext_副本/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
+import BackToTop from "/Users/gaoxin/Documents/myCode/study/js/2022-nodejs/node/vuePressNext_副本/node_modules/vuepress-plugin-components/lib/client/components/BackToTop.js";
 
 
 export default defineClientConfig({
